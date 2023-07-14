@@ -1,0 +1,419 @@
+info: [object Object],[object Object]
+info: [object Object]
+info: Accept,*/*,User-Agent,node-fetch/1.0 (+https://github.com/bitinn/node-fetch),Accept-Encoding,gzip,deflate,Connection,close,Host,localhost:8087
+undefined [undefined] info: Server is listening on port 8087
+undefined [undefined] info: Accept,*/*,User-Agent,node-fetch/1.0 (+https://github.com/bitinn/node-fetch),Accept-Encoding,gzip,deflate,Connection,close,Host,localhost:8087
+2023-06-15T01:54:19.601Z [right meow!] info: Server is listening on port 8087
+2023-06-15T01:55:32.527Z [right meow!] info: Accept,*/*,User-Agent,node-fetch/1.0 (+https://github.com/bitinn/node-fetch),Accept-Encoding,gzip,deflate,Connection,close,Host,localhost:8087
+2023-06-15T02:08:05.470Z [undefined] info: Server is listening on port 8087
+2023-06-15T02:15:09.194Z-info: Server is listening on port 8087
+2023-06-15T02:41:23.470Z-info: Server is listening on port 8087
+2023-06-15T02:42:21.015Z-info: Server is listening on port 8087
+2023-06-15T02:42:37.500Z-info: Server is listening on port 8087
+2023-06-15T02:42:59.142Z-info: Server is listening on port 8087
+2023-06-15T02:43:00.804Z-info: Accept,*/*,User-Agent,node-fetch/1.0 (+https://github.com/bitinn/node-fetch),Accept-Encoding,gzip,deflate,Connection,close,Host,localhost:8087
+2023-06-15T02:43:09.416Z-info: Accept,*/*,User-Agent,node-fetch/1.0 (+https://github.com/bitinn/node-fetch),Accept-Encoding,gzip,deflate,Connection,close,Host,localhost:8087
+2023-06-15T02:43:10.086Z-info: Accept,*/*,User-Agent,node-fetch/1.0 (+https://github.com/bitinn/node-fetch),Accept-Encoding,gzip,deflate,Connection,close,Host,localhost:8087
+2023-06-15T02:43:32.056Z-info: Server is listening on port 8087
+2023-06-15T02:43:36.359Z-info: Accept,*/*,User-Agent,node-fetch/1.0 (+https://github.com/bitinn/node-fetch),Accept-Encoding,gzip,deflate,Connection,close,Host,localhost:8087
+2023-06-15T02:44:45.102Z-info: Server is listening on port 8087
+2023-06-15T02:44:47.482Z-info: Accept,*/*,User-Agent,node-fetch/1.0 (+https://github.com/bitinn/node-fetch),Accept-Encoding,gzip,deflate,Connection,close,Host,localhost:8087
+2023-06-15T02:46:37.712Z-info: Server is listening on port 8087
+2023-06-15T02:46:44.874Z-info: Accept,*/*,User-Agent,node-fetch/1.0 (+https://github.com/bitinn/node-fetch),Accept-Encoding,gzip,deflate,Connection,close,Host,localhost:8087
+2023-06-16T01:24:27.683Z-info: Server is listening on port 8087
+2023-06-16T01:27:01.564Z-info: Server is listening on port 8087
+2023-06-16T01:28:57.380Z-info: Server is listening on port 8087
+2023-06-16T01:29:13.647Z-info: Server is listening on port 8087
+2023-06-16T01:59:13.110Z-info: Server is listening on port 8087
+2023-06-16T02:01:19.428Z-info: Server is listening on port 8087
+2023-06-16T02:25:17.037Z-info: Server is listening on port 8087
+2023-06-17T00:47:51.941Z-info: Server is listening on port 8087
+2023-06-17T00:54:21.105Z-info: Server is listening on port 8087
+2023-06-17T00:54:36.519Z-info: Server is listening on port 8087
+2023-06-17T01:19:37.867Z-info: Server is listening on port 8087
+2023-06-17T01:20:36.222Z-info: Server is listening on port 8087
+2023-06-17T01:24:03.731Z-info: Server is listening on port 8087
+2023-06-17T01:24:11.651Z-info: [object Object]
+2023-06-17T01:24:29.648Z-info: Server is listening on port 8087
+2023-06-17T01:25:05.448Z-info: Server is listening on port 8087
+2023-06-17T01:41:35.959Z-info: Server is listening on port 8087
+2023-06-17T01:46:49.735Z-info: Server is listening on port 8087
+2023-06-17T01:52:06.679Z-info: Server is listening on port 8087
+2023-06-17T01:52:51.666Z-info: Server is listening on port 8087
+2023-06-17T01:59:00.539Z-info: Server is listening on port 8087
+2023-06-17T02:00:15.326Z-info: Server is listening on port 8087
+2023-06-17T02:00:46.276Z-info: Server is listening on port 8087
+2023-06-17T02:06:35.496Z-info: Server is listening on port 8087
+2023-06-20T01:44:44.850Z-error: Dabase Error
+2023-06-20T01:45:30.354Z-error: Dabase Error
+2023-06-20T01:46:00.712Z-error: Dabase Error
+2023-06-20T01:50:39.496Z-error: Dabase Error
+2023-06-20T01:51:14.659Z-error: Dabase Error
+2023-06-20T02:07:17.298Z-error: Dabase Error
+2023-06-20T02:11:05.205Z-error: Dabase Error
+2023-06-20T02:12:03.094Z-error: Dabase Error
+2023-06-20T02:19:20.075Z-error: Dabase Error
+2023-06-22T01:00:25.075Z-info: Server is listening on port 8087
+2023-06-22T01:02:27.896Z-info: Server is listening on port 8087
+2023-06-22T01:03:00.766Z-info: Server is listening on port 8087
+2023-06-22T01:03:03.256Z-error: Unexpected token } in JSON at position 94
+2023-06-22T01:05:29.536Z-info: Server is listening on port 8087
+2023-06-22T01:05:32.138Z-error: Unexpected token } in JSON at position 94
+2023-06-22T01:06:00.575Z-error: Unexpected token ' in JSON at position 16
+2023-06-22T01:09:19.291Z-info: Server is listening on port 8087
+2023-06-22T01:11:29.508Z-info: Server is listening on port 8087
+2023-06-22T01:11:32.027Z-error: database "gestion_cita1" does not exist
+2023-06-22T01:14:26.367Z-info: Server is listening on port 8087
+2023-06-22T01:14:29.015Z-error: database "gestion_cita1" does not exist
+2023-06-22T01:15:06.616Z-info: Server is listening on port 8087
+2023-06-22T01:15:09.123Z-error: database "gestion_cita1" does not exist
+2023-06-22T01:15:09.123Z-error: Error creating doctor: error: database "gestion_cita1" does not exist
+2023-06-22T01:15:22.358Z-error: database "gestion_cita1" does not exist
+2023-06-22T01:15:22.358Z-error: Error creating doctor: error: database "gestion_cita1" does not exist
+2023-06-22T01:16:26.423Z-info: Server is listening on port 8087
+2023-06-22T01:16:29.269Z-error: Error creating doctor: error: database "gestion_cita1" does not exist
+2023-06-22T01:18:02.786Z-error: Internal Server Error
+2023-06-22T01:19:08.626Z-error: Internal Server Error
+2023-06-22T01:19:16.801Z-error: Internal Server Error
+2023-06-22T01:19:47.999Z-error: Internal Server Error
+2023-06-22T01:20:33.396Z-error: Internal Server Error
+2023-06-22T01:22:44.205Z-error: Internal Server Error
+2023-06-22T01:24:40.933Z-error: Internal Server Error
+2023-06-22T01:32:52.638Z-info: Server is listening on port 8087
+2023-06-22T01:32:55.481Z-error: Failed to create doctor
+2023-06-22T01:33:50.824Z-info: Server is listening on port 8087
+2023-06-22T01:33:51.958Z-error: Failed to create doctor
+2023-06-22T01:34:08.046Z-info: Server is listening on port 8087
+2023-06-22T01:34:09.975Z-error: Failed to create doctor
+2023-06-22T01:36:00.010Z-info: Server is listening on port 8087
+2023-06-22T01:36:05.413Z-error: Failed to create doctor repository
+2023-06-22T01:36:53.626Z-info: Server is listening on port 8087
+2023-06-22T01:36:55.931Z-error: Failed to create doctor dubt: error: database "gestion_cita1" does not exist
+2023-06-22T01:39:07.486Z-error: Failed to create doctor dubt: error: database "gestion_cita1" does not exist
+2023-06-22T01:44:54.065Z-info: Server is listening on port 8087
+2023-06-22T01:45:03.544Z-error: Failed to create doctor dubt: error: database "gestion_cita1" does not exist
+2023-06-22T01:45:21.601Z-info: Server is listening on port 8087
+2023-06-22T01:45:26.417Z-error: Failed to create doctor dubt: error: database "gestion_cita1" does not exist
+2023-06-22T01:48:04.542Z-info: Server is listening on port 8087
+2023-06-22T01:48:06.008Z-error: Failed to create doctor dubt: error: database "gestion_cita1" does not exist
+2023-06-22T02:28:09.676Z-info: Server is listening on port 8087
+2023-06-22T02:28:21.280Z-error: Record has not found yet
+2023-06-22T02:30:25.713Z-info: Server is listening on port 8087
+2023-06-22T02:30:36.460Z-error: Record has not found yet
+2023-06-22T02:31:30.978Z-info: Server is listening on port 8087
+2023-06-22T02:31:34.828Z-info: 1
+2023-06-22T02:31:34.848Z-error: Record has not found yet
+2023-06-22T02:32:01.018Z-info: Server is listening on port 8087
+2023-06-22T02:32:01.317Z-info: 1
+2023-06-22T02:32:01.334Z-error: Record has not found yet
+2023-06-22T02:32:32.769Z-info: Server is listening on port 8087
+2023-06-22T02:32:35.302Z-info: 1
+2023-06-22T02:32:35.323Z-error: Record has not found yet
+2023-06-22T02:34:39.706Z-info: Server is listening on port 8087
+2023-06-22T02:34:41.140Z-info: 1
+2023-06-22T02:34:41.157Z-error: Failed get doctor by id in repository
+2023-06-22T02:34:41.157Z-error: Record has not found yet
+2023-06-22T02:35:13.681Z-info: Server is listening on port 8087
+2023-06-22T02:35:16.072Z-info: 1
+2023-06-22T02:35:16.091Z-error: Record has not found yet
+2023-06-22T02:36:03.449Z-info: Server is listening on port 8087
+2023-06-22T02:36:03.830Z-info: 1
+2023-06-22T02:36:03.877Z-error: Failed get doctor by id in repository
+2023-06-22T02:36:03.878Z-error: Record has not found yet
+2023-06-22T02:37:09.643Z-info: Server is listening on port 8087
+2023-06-22T02:37:11.652Z-info: 1
+2023-06-22T02:42:19.366Z-error: Internal Server Error
+2023-06-22T02:42:55.239Z-error: Internal Server Error
+2023-06-22T02:43:11.640Z-error: Internal Server Error
+2023-06-22T02:45:05.590Z-error: Internal Server Error
+2023-06-22T02:45:05.594Z-error: Record has not found yet
+2023-06-22T02:45:38.105Z-error: Internal Server Error
+2023-06-22T02:45:38.110Z-error: Record has not found yet
+2023-06-22T02:46:06.303Z-error: Internal Server Error
+2023-06-22T02:46:06.307Z-error: Record has not found yet
+2023-06-22T02:46:22.396Z-error: Internal Server Error
+2023-06-22T02:46:22.400Z-error: Record has not found yet
+2023-06-22T02:46:29.887Z-error: Internal Server Error
+2023-06-22T02:46:29.891Z-error: Record has not found yet
+2023-06-22T02:48:14.326Z-error: Internal Server Error
+2023-06-22T02:48:14.330Z-error: Record has not found yet
+2023-06-22T02:48:14.331Z-error: Internal Server Error
+2023-06-22T02:48:37.967Z-error: Internal Server Error
+2023-06-22T02:48:37.970Z-error: Record has not found yet
+2023-06-22T02:48:37.971Z-error: Internal Server Error
+2023-06-22T02:51:42.196Z-error: Internal Server Error
+2023-06-22T02:51:42.201Z-error: Record has not found yet
+2023-06-22T02:51:42.202Z-error: Internal Server Error
+2023-06-22T02:51:49.412Z-error: Internal Server Error
+2023-06-22T02:51:49.417Z-error: Record has not found yet
+2023-06-22T02:51:49.419Z-error: Internal Server Error
+2023-06-22T02:53:04.812Z-error: Internal Server Error
+2023-06-22T02:53:04.816Z-error: Record has not found yet
+2023-06-22T02:53:04.817Z-error: Internal Server Error
+2023-06-22T02:53:27.789Z-error: Internal Server Error
+2023-06-22T02:53:27.793Z-error: Record has not found yet
+2023-06-22T02:53:27.794Z-error: Internal Server Error
+2023-06-22T02:53:40.236Z-error: Internal Server Error
+2023-06-22T02:53:40.241Z-error: Record has not found yet
+2023-06-22T02:53:40.241Z-error: Internal Server Error
+2023-06-22T02:56:15.271Z-error: Internal Server Error
+2023-06-22T02:56:15.280Z-error: Record has not found yet
+2023-06-22T02:56:15.281Z-error: Internal Server Error
+2023-06-22T02:57:38.625Z-error: Internal Server Error
+2023-06-22T02:57:38.628Z-error: Record has not found yet
+2023-06-22T02:57:38.629Z-error: Internal Server Error
+2023-06-23T00:57:57.637Z-info: Server is listening on port 8087
+2023-06-23T00:58:31.388Z-info: Server is listening on port 8087
+2023-06-23T00:59:18.508Z-error: Failed to update doctor from service
+2023-06-23T00:59:18.509Z-error: Failed to update doctor
+2023-06-23T01:00:02.129Z-info: Server is listening on port 8087
+2023-06-23T01:00:05.291Z-error: Failed to update doctor from service
+2023-06-23T01:00:05.291Z-error: Failed to update doctor
+2023-06-23T01:09:07.950Z-info: Server is listening on port 8087
+2023-06-23T01:10:00.884Z-info: Server is listening on port 8087
+2023-06-23T01:29:26.385Z-info: Server is listening on port 8087
+2023-06-23T01:30:48.500Z-info: Server is listening on port 8087
+2023-06-23T01:30:52.709Z-error: Failed get patient by id in repository
+2023-06-23T01:30:52.709Z-error: Record has not found yet
+2023-06-23T01:32:58.841Z-error: Record has not found yet
+2023-06-23T01:35:37.612Z-info: Server is listening on port 8087
+2023-06-23T01:35:39.741Z-error: Failed get patient by id in repository
+2023-06-23T01:35:39.741Z-error: Record has not found yet
+2023-06-23T01:38:30.134Z-info: Server is listening on port 8087
+2023-06-23T01:38:36.213Z-error: Failed get patient by id in repository
+2023-06-23T01:38:36.213Z-error: Record has not found yet
+2023-06-23T01:41:38.754Z-info: Server is listening on port 8087
+2023-06-23T01:41:49.636Z-error: Id must be a number
+2023-06-23T02:38:41.747Z-info: Server is listening on port 8087
+2023-06-23T02:51:24.466Z-info: Server is listening on port 8087
+2023-06-24T02:22:47.039Z-info: Server is listening on port 8087
+2023-06-24T02:23:11.934Z-info: Server is listening on port 8087
+2023-06-24T02:23:13.727Z-error: Failed get appointment by id in repository
+2023-06-24T02:23:13.727Z-error: Failed to get appointment from service
+2023-06-24T02:23:13.728Z-error: Record has not found yet
+2023-06-24T02:23:41.122Z-info: Server is listening on port 8087
+2023-06-24T02:24:51.874Z-info: Server is listening on port 8087
+2023-06-24T02:25:08.106Z-info: Server is listening on port 8087
+2023-06-24T02:25:37.075Z-info: Server is listening on port 8087
+2023-06-24T02:25:58.398Z-info: Server is listening on port 8087
+2023-06-24T02:26:18.234Z-info: Server is listening on port 8087
+2023-06-24T02:26:33.590Z-info: Server is listening on port 8087
+2023-06-24T02:27:04.052Z-info: Server is listening on port 8087
+2023-06-24T02:28:06.570Z-info: Server is listening on port 8087
+2023-06-24T02:28:08.476Z-error: database "gestion_citas1" does not exist
+2023-06-24T02:28:51.489Z-info: Server is listening on port 8087
+2023-06-24T02:28:53.679Z-error: database "gestion_citas1" does not exist
+2023-06-24T02:28:53.679Z-error: Failed getting all appointments from service
+2023-06-24T02:30:49.304Z-info: Server is listening on port 8087
+2023-06-24T02:30:50.112Z-error: database "gestion_citas1" does not exist
+2023-06-24T02:30:50.112Z-error: Failed getting all appointments from service aca
+2023-06-24T02:40:04.003Z-info: Server is listening on port 8087
+2023-06-24T02:40:42.052Z-info: Server is listening on port 8087
+2023-06-24T02:40:46.437Z-error: Failed to create doctor dubt: error: database "gestion_citas1" does not exist
+2023-06-24T02:40:59.263Z-info: Server is listening on port 8087
+2023-07-03T17:37:31.158Z-error: Record has not found yet
+2023-07-03T17:37:31.172Z-error: Internal Server Error
+2023-07-03T17:41:28.859Z-error: Record has not found yet
+2023-07-03T17:41:28.867Z-error: Internal Server Error
+2023-07-03T17:42:47.856Z-error: Record has not found yet
+2023-07-03T17:42:47.863Z-error: Internal Server Error
+2023-07-03T17:43:56.138Z-info: Server is listening on port 8087
+2023-07-03T17:51:03.325Z-error: Record has not found yet
+2023-07-03T17:51:03.332Z-error: Internal Server Error
+2023-07-03T17:51:52.237Z-error: Record has not found yet
+2023-07-03T17:51:52.246Z-error: Internal Server Error
+2023-07-03T17:52:12.426Z-error: Record has not found yet
+2023-07-03T17:52:12.434Z-error: Internal Server Error
+2023-07-03T17:52:49.147Z-error: Record has not found yet
+2023-07-03T17:52:49.157Z-error: Internal Server Error
+2023-07-03T17:52:59.144Z-info: Server is listening on port 8087
+2023-07-03T17:53:41.254Z-error: Failed updated doctor in repository
+2023-07-03T17:54:46.055Z-info: Server is listening on port 8087
+2023-07-03T17:54:54.388Z-error: Failed updated doctor in repository
+2023-07-03T17:55:43.306Z-error: Record has not found yet
+2023-07-03T17:55:43.314Z-error: Internal Server Error
+2023-07-03T17:55:47.188Z-info: Server is listening on port 8087
+2023-07-03T17:57:18.538Z-error: Record has not found yet
+2023-07-03T17:57:18.546Z-error: Internal Server Error
+2023-07-03T17:58:21.064Z-error: Record has not found yet
+2023-07-03T17:58:21.072Z-error: Internal Server Error
+2023-07-03T17:58:35.646Z-info: Server is listening on port 8087
+2023-07-03T17:58:48.268Z-error: Failed updated doctor in repository
+2023-07-03T18:00:46.226Z-error: Record has not found yet
+2023-07-03T18:00:46.235Z-error: Internal Server Error
+2023-07-03T18:00:48.682Z-info: Server is listening on port 8087
+2023-07-03T18:06:19.155Z-error: Record has not found yet
+2023-07-03T18:06:19.162Z-error: Internal Server Error
+2023-07-03T18:10:03.707Z-error: Record has not found yet
+2023-07-03T18:10:03.714Z-error: Internal Server Error
+2023-07-03T18:12:45.977Z-error: Id must be a number
+2023-07-03T18:16:28.452Z-error: Record has not found yet
+2023-07-03T18:16:28.460Z-error: Internal Server Error
+2023-07-03T18:16:55.284Z-error: Record has not found yet
+2023-07-03T18:16:55.292Z-error: Internal Server Error
+2023-07-03T18:16:57.985Z-info: Server is listening on port 8087
+2023-07-03T18:17:39.383Z-error: Failed to create patient dubt: error: insert into "pacientes" ("apellido", "created_at", "identificacion", "nombre", "telefono", "updated_at") values ($1, $2, $3, $4, $5, $6) returning * - duplicate key value violates unique constraint "pacientes_identificacion_key"
+2023-07-03T18:18:59.020Z-error: Record has not found yet
+2023-07-03T18:18:59.028Z-error: Internal Server Error
+2023-07-03T18:35:16.656Z-error: Record has not found yet
+2023-07-03T18:35:16.665Z-error: Internal Server Error
+2023-07-03T18:36:43.182Z-error: Record has not found yet
+2023-07-03T18:36:43.190Z-error: Internal Server Error
+2023-07-03T18:46:08.179Z-error: Record has not found yet
+2023-07-03T18:46:08.187Z-error: Internal Server Error
+2023-07-03T18:47:55.773Z-error: Record has not found yet
+2023-07-03T18:47:55.782Z-error: Internal Server Error
+2023-07-03T18:48:03.992Z-info: Server is listening on port 8087
+2023-07-03T18:48:07.573Z-error: Record has not found yet
+2023-07-03T18:48:07.582Z-error: Internal Server Error
+2023-07-03T18:48:18.664Z-error: Record has not found yet
+2023-07-03T18:48:18.672Z-error: Internal Server Error
+2023-07-03T18:53:53.254Z-error: Record has not found yet
+2023-07-03T18:53:53.262Z-error: Internal Server Error
+2023-07-03T18:53:59.421Z-info: Server is listening on port 8087
+2023-07-03T19:06:59.208Z-error: Record has not found yet
+2023-07-03T19:06:59.216Z-error: Internal Server Error
+2023-07-03T19:09:06.199Z-error: Record has not found yet
+2023-07-03T19:09:06.206Z-error: Internal Server Error
+2023-07-03T19:12:54.818Z-error: Record has not found yet
+2023-07-03T19:12:54.826Z-error: Internal Server Error
+2023-07-03T19:13:34.586Z-error: Record has not found yet
+2023-07-03T19:13:34.593Z-error: Internal Server Error
+2023-07-03T19:13:40.730Z-info: Server is listening on port 8087
+2023-07-03T19:14:18.118Z-error: Failed deleting doctor in repository
+2023-07-03T19:14:18.119Z-error: Failed to delete doctor from service
+2023-07-03T19:14:49.542Z-error: Record has not found yet
+2023-07-03T19:14:49.550Z-error: Internal Server Error
+2023-07-03T19:14:58.666Z-info: Server is listening on port 8087
+2023-07-03T19:15:01.908Z-error: Failed deleting doctor in repository
+2023-07-03T19:15:01.909Z-error: Failed to delete doctor from service
+2023-07-03T19:16:00.564Z-error: Record has not found yet
+2023-07-03T19:16:00.572Z-error: Internal Server Error
+2023-07-03T19:16:21.621Z-info: Server is listening on port 8087
+2023-07-03T19:18:35.548Z-error: Failed to update doctor from service
+2023-07-03T19:18:35.548Z-error: Failed to update doctor
+2023-07-03T19:18:42.720Z-error: Failed to delete doctor from service
+2023-07-03T19:19:31.492Z-error: Record has not found yet
+2023-07-03T19:19:31.499Z-error: Internal Server Error
+2023-07-03T19:19:56.030Z-error: Record has not found yet
+2023-07-03T19:19:56.038Z-error: Internal Server Error
+2023-07-03T20:53:29.332Z-error: Record has not found yet
+2023-07-03T20:53:29.339Z-error: Internal Server Error
+2023-07-03T20:53:48.113Z-error: Record has not found yet
+2023-07-03T20:53:48.123Z-error: Internal Server Error
+2023-07-03T20:53:51.522Z-info: Server is listening on port 8087
+2023-07-03T20:53:56.796Z-error: Record has not found yet
+2023-07-03T20:53:56.803Z-error: Internal Server Error
+2023-07-03T20:54:30.499Z-error: select * from "citas1" - relation "citas1" does not exist
+2023-07-03T20:54:30.500Z-error: Failed getting all appointments from service
+2023-07-03T20:56:47.770Z-error: Record has not found yet
+2023-07-03T20:56:47.778Z-error: Internal Server Error
+2023-07-03T20:56:50.647Z-info: Server is listening on port 8087
+2023-07-03T20:58:04.174Z-error: Failed to get appointment from service
+2023-07-03T20:58:04.175Z-error: Record has not found yet
+2023-07-03T21:00:05.710Z-error: Unexpected string in JSON at position 114
+2023-07-03T21:01:32.308Z-error: Record has not found yet
+2023-07-03T21:01:32.317Z-error: Internal Server Error
+2023-07-03T21:01:40.627Z-error: Failed to create appointment from service
+2023-07-03T21:02:51.905Z-error: Failed to create appointment from service
+2023-07-03T21:03:23.323Z-error: Failed to create appointment from service
+2023-07-03T21:04:10.094Z-error: Failed to create appointment from service
+2023-07-03T21:04:16.566Z-error: Failed to create appointment from service
+2023-07-03T21:09:37.418Z-error: Record has not found yet
+2023-07-03T21:09:37.426Z-error: Internal Server Error
+2023-07-03T21:28:17.454Z-error: Record has not found yet
+2023-07-03T21:28:17.462Z-error: Internal Server Error
+2023-07-03T21:31:41.196Z-error: Record has not found yet
+2023-07-03T21:31:41.208Z-error: Internal Server Error
+2023-07-03T21:32:03.089Z-info: Server is listening on port 8087
+2023-07-03T21:32:20.610Z-error: Failed to create appointment from service
+2023-07-03T21:34:48.689Z-error: Record has not found yet
+2023-07-03T21:34:48.698Z-error: Internal Server Error
+2023-07-03T21:34:51.675Z-info: Server is listening on port 8087
+2023-07-03T21:34:56.367Z-error: Failed to create appointment from service
+2023-07-03T21:36:21.127Z-error: Record has not found yet
+2023-07-03T21:36:21.135Z-error: Internal Server Error
+2023-07-03T21:36:24.043Z-info: Server is listening on port 8087
+2023-07-03T21:36:25.292Z-error: Failed to create appointment from service
+2023-07-03T21:44:11.688Z-error: Record has not found yet
+2023-07-03T21:44:11.695Z-error: Internal Server Error
+2023-07-03T21:48:11.601Z-error: Record has not found yet
+2023-07-03T21:48:11.609Z-error: Internal Server Error
+2023-07-03T21:51:39.036Z-error: Record has not found yet
+2023-07-03T21:51:39.044Z-error: Internal Server Error
+2023-07-03T21:51:45.893Z-info: Server is listening on port 8087
+2023-07-03T21:51:50.173Z-error: Failed to retrieve patient
+2023-07-03T21:54:05.913Z-error: Record has not found yet
+2023-07-03T21:54:05.921Z-error: Internal Server Error
+2023-07-03T21:54:08.784Z-info: Server is listening on port 8087
+2023-07-03T21:54:09.935Z-error: Failed to retrieve patient
+2023-07-03T21:56:53.263Z-error: Failed to retrieve patient
+2023-07-03T22:00:10.666Z-error: Record has not found yet
+2023-07-03T22:00:10.674Z-error: Internal Server Error
+2023-07-03T22:00:27.748Z-info: Server is listening on port 8087
+2023-07-03T22:00:30.122Z-error: Failed to retrieve patient
+2023-07-03T22:00:54.710Z-error: Record has not found yet
+2023-07-03T22:00:54.718Z-error: Internal Server Error
+2023-07-03T22:02:28.813Z-error: Record has not found yet
+2023-07-03T22:02:28.824Z-error: Internal Server Error
+2023-07-03T22:02:32.346Z-info: Server is listening on port 8087
+2023-07-03T22:02:34.540Z-error: Failed to retrieve patient
+2023-07-03T22:02:57.882Z-error: Failed to retrieve doctor by 11
+2023-07-03T22:18:24.398Z-error: Record has not found yet
+2023-07-03T22:18:24.406Z-error: Internal Server Error
+2023-07-05T00:33:11.495Z-error: Record has not found yet
+2023-07-05T00:33:11.509Z-error: Internal Server Error
+2023-07-05T00:33:24.478Z-error: Record has not found yet
+2023-07-05T00:33:24.501Z-error: Internal Server Error
+2023-07-07T00:42:11.795Z-error: Record has not found yet
+2023-07-07T00:42:11.817Z-error: Internal Server Error
+2023-07-07T00:42:28.431Z-error: Record has not found yet
+2023-07-07T00:42:28.446Z-error: Internal Server Error
+2023-07-10T23:21:53.838Z-error: Record has not found yet
+2023-07-10T23:21:53.850Z-error: Internal Server Error
+2023-07-10T23:22:11.968Z-error: Record has not found yet
+2023-07-10T23:22:11.977Z-error: Internal Server Error
+2023-07-10T23:26:28.162Z-error: Record has not found yet
+2023-07-10T23:26:28.169Z-error: Internal Server Error
+2023-07-10T23:27:03.310Z-error: Record has not found yet
+2023-07-10T23:27:03.318Z-error: Internal Server Error
+2023-07-10T23:28:43.090Z-error: Record has not found yet
+2023-07-10T23:28:43.097Z-error: Internal Server Error
+2023-07-10T23:28:43.129Z-error: Record has not found yet
+2023-07-10T23:28:43.138Z-error: Internal Server Error
+2023-07-10T23:43:42.926Z-error: Record has not found yet
+2023-07-10T23:43:42.937Z-error: Internal Server Error
+2023-07-10T23:44:33.476Z-info: Server is listening on port 8087
+2023-07-10T23:44:36.718Z-error: Record has not found yet
+2023-07-10T23:44:36.725Z-error: Internal Server Error
+2023-07-10T23:45:59.855Z-error: Failed to retrieve doctor by id: 11
+2023-07-10T23:46:06.412Z-error: Record has not found yet
+2023-07-10T23:46:06.426Z-error: Internal Server Error
+2023-07-10T23:50:48.415Z-error: Record has not found yet
+2023-07-10T23:50:48.423Z-error: Internal Server Error
+2023-07-10T23:51:07.552Z-error: Record has not found yet
+2023-07-10T23:51:07.559Z-error: Internal Server Error
+2023-07-10T23:52:24.705Z-error: Record has not found yet
+2023-07-10T23:52:24.712Z-error: Internal Server Error
+2023-07-10T23:52:35.176Z-error: Record has not found yet
+2023-07-10T23:52:35.183Z-error: Internal Server Error
+2023-07-10T23:53:21.140Z-error: Record has not found yet
+2023-07-10T23:53:21.148Z-error: Internal Server Error
+2023-07-10T23:55:25.102Z-error: Record has not found yet
+2023-07-10T23:55:25.109Z-error: Internal Server Error
+2023-07-10T23:55:33.670Z-error: Record has not found yet
+2023-07-10T23:55:33.677Z-error: Internal Server Error
+2023-07-11T02:28:43.910Z-error: Record has not found yet
+2023-07-11T02:28:43.920Z-error: Internal Server Error
+2023-07-11T02:29:10.470Z-error: Record has not found yet
+2023-07-11T02:29:10.478Z-error: Internal Server Error
+2023-07-11T02:42:47.593Z-error: Record has not found yet
+2023-07-11T02:42:47.602Z-error: Internal Server Error
+2023-07-13T00:14:11.878Z-error: Record has not found yet
+2023-07-13T00:14:11.887Z-error: Internal Server Error
+2023-07-13T00:14:18.926Z-error: Record has not found yet
+2023-07-13T00:14:18.935Z-error: Internal Server Error
+2023-07-13T23:58:03.937Z-error: Record has not found yet
+2023-07-13T23:58:03.944Z-error: Internal Server Error
+2023-07-13T23:58:10.640Z-error: Record has not found yet
+2023-07-13T23:58:10.646Z-error: Internal Server Error
